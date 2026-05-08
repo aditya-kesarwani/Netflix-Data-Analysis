@@ -14,7 +14,6 @@ This project analyzes Netflix movies and TV show data using Python, Pandas, NumP
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 
 ## Files Included
